@@ -2,6 +2,7 @@
     margin: 0;
 }
 
+/* under medium 768px */
 header {
     height: 100px;
     background-color: azure;
@@ -21,10 +22,9 @@ li a {
 
 ul li {
     display: block;
-
 }
 
-/* medium 768 */
+/* medium 768px */
 @media screen and (min-width: 768px) {
 
     ul li {
@@ -34,13 +34,8 @@ ul li {
 
     header {
         height: 30px;
-        background-color: azure;
         text-align: center;
         padding-top: 10px;
-    }
-
-    body {
-        background-color: aquamarine;
     }
 
     li a {
@@ -50,15 +45,11 @@ ul li {
 
 }
 
+/* large 1024px */
 @media screen and (min-width: 1024px) {
     header {
         height: 100px;
-        background-color: azure;
         text-align: center;
-    }
-
-    body {
-        background-color: aquamarine;
     }
 
     li a {
