@@ -1,7 +1,7 @@
 # preview
 mobile
-![alt text] (Preview-mobile.png)
+![alt text](Preview-mobile.png)
 
-================================================================
+----------------------------------------------
 desktop
-![alt text] (Desktop-mobile.png)
+![alt text](Desktop-preview.png)
